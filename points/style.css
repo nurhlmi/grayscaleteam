@@ -1,0 +1,104 @@
+body {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 80px;
+	font-family: century gothic, sans-serif;
+	background-color: #1e272e;
+}
+
+hr {
+	border-top: 1px solid #bdc3c7;
+}
+
+h3 {
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+input {
+	width: 100%;
+	outline: none;
+	padding: 6px 12px;
+	border-radius: 5px;
+	border: 1px solid #bdc3c7;
+}
+
+.red {background-color: #e74c3c;}
+.gold {background-color: #ffd700;}
+.silver {background-color: #bdc3c7;}
+.bronze {background-color: #cd7f32;}
+
+
+.form-points {
+	width: 100%;
+	padding: 30px;
+	background-color: white;
+}
+.form-board {
+	width: 100%;
+	padding: 10px 30px 20px 30px;
+	margin-top: 20px;
+	border-radius: 5px;
+	background-color: white;
+}
+.form-button {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.logo {
+	width: 50px;
+	border-radius: 50px;
+	margin-left: 8px;
+}
+.logo-sm {
+	width: 20px;
+	border-radius: 50px;
+}
+.logo-user {
+	width: 150px;
+	border-radius: 150px;
+}
+
+.list {
+	width: 100%;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+
+
+.points {
+	color: white;
+	padding: 10px;
+	font-size: 15px;
+	font-weight: bold;
+	border-radius: 5px;
+	margin-top: 20px;
+	background-color: #e74c3c;
+}
+
+.menu-bar {
+	bottom: 0;
+	width: 100%;
+	padding: 10px;
+	position: fixed;
+	z-index: 1;
+	background-color: white;
+	border-top: 1px solid #bdc3c7;
+}
+
+.reedem {
+	width: 100%;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+
+.reedem-title {
+	display: block;
+}
+.reedem-value {
+	color: red;
+}

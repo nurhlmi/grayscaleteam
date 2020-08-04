@@ -1,0 +1,103 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: white;
+	background: #1e272e;
+	font-family: futura pt;
+}
+
+header {
+	margin: 0 auto;
+	max-width: 100px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+a {
+	color: white;
+}
+a:hover, a:focus {
+	text-decoration: none;
+}
+
+img {
+	width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+
+span {
+	text-transform: normal;
+}
+
+hr {
+	margin-top: 20px;
+	margin-bottom: 50px;
+	border-top: 1px solid #485460;
+}
+
+li {
+	font-weight: none;
+	margin-bottom: 10px;
+}
+
+footer {
+	padding-bottom: 30px;
+}
+
+.cover {
+	margin: 0 auto;
+	max-width: 100px;
+}
+
+.logo {
+	cursor: pointer;
+}
+
+.game {
+	transition: 0.2s;
+	margin-bottom: 30px;
+}
+.game:hover {
+	transform: scale(1.1);
+}
+
+.menu, .menu-on {
+	width: 100%;
+	background: none;
+	font-size: 20px;
+	padding: 20px;
+	text-transform: uppercase;
+	transition: 0.2s;
+	border: #1e272e;
+	outline: none;
+}
+.menu:hover, .menu-on {
+	background: white;
+	color: #1e272e;
+	transform: scale(1.0);
+}
+
+.match {
+	padding: 20px;
+	color: #1e272e;
+	background: white;
+	transition: ease 0.2s;
+	border-bottom: 1px silver solid;
+}
+.match:hover {
+	background: #d2dae2;
+}
+
+.team {
+	width: 50px;
+}
+
+.galery {margin-bottom: 50px;}
+.sparing {margin-bottom: 50px;}
+.store {margin-bottom: 30px;}
+.division {margin-bottom: 50px;}
+.partners {margin-bottom: 100px;margin-top:100px;}

@@ -1,0 +1,40 @@
+Email
+-------------------------
+email			: wearegrays@gmail.com	
+password		: Pasnet27
+
+
+
+Instagram
+-------------------------
+username		: grayscaleteam
+password		: GSCL12
+
+
+
+grayscale.rocketnesia.host
+------------------------
+email			: nurhilmi.mail@gmail.com
+password		: Rocketnesia27
+username		: rcktn_22150934
+password		: GSCL12
+
+
+
+grayscale.epizy.com	  Infinity Free
+------------------------  --------------
+email			: nurhilmi.mail@gmail.com
+password		: Infinityfree27
+host			: 185.27.134.11
+username		: EPIZ_22151032
+password		: GSCL12
+
+
+
+grayscale.ezyro.com	  Pro Free Host
+------------------------  --------------
+email			: nurhilmi.mail@gmail.com
+password		: Profreehost27
+host			: ftp.ezyro.com
+username		: ezyro_22151217
+password		: GSCL12
