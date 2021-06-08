@@ -30,7 +30,7 @@
 				</div>
 				<div class="col-lg-3 col-md-4 col-6">
 					<img src="assets/img/member/hakim.png">
-					<h6>KYYYM</h6>
+					<h6>KYMMM</h6>
 				</div>
 				<div class="col-lg-3 col-md-4 col-6">
 					<img src="assets/img/member/ari.png">
@@ -47,6 +47,10 @@
 				<div class="col-lg-3 col-md-4 col-6">
 					<img src="assets/img/member/none.png">
 					<h6>Umberzella.</h6>
+				</div>
+				<div class="col-lg-3 col-md-4 col-6">
+					<img src="assets/img/member/none.png">
+					<h6>TRUE</h6>
 				</div>
 		        <!--<div class="col-md-6">
 		            <a href="mobilelegends">

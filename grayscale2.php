@@ -28,6 +28,24 @@
 			<div class="division">
 				<div class="row">
 					<div class="col-sm-4">
+						<img src="assets/img/member/adlan.png">
+					</div>
+					<div class="col-sm-6">
+						<h1>Ushiromiyera</h1>
+						<ul>
+							<li>Rizal Adlan</li>
+							<li><b>OFFLANE</b></li>
+							<li>
+								<i class="fa fa-fw fa-instagram"></i>
+								<a href="https://www.instagram.com/rizaladlanuu_/" target="_blank">@rizaladlanuu_</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="division">
+				<div class="row">
+					<div class="col-sm-4">
 						<img src="assets/img/member/none.png">
 					</div>
 					<div class="col-sm-6">
@@ -56,6 +74,24 @@
 							<li>
 								<i class="fa fa-fw fa-instagram"></i>
 								<a href="https://www.instagram.com/04_rmdhn/" target="_blank">@04_rmdhn</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="division">
+				<div class="row">
+					<div class="col-sm-4">
+						<img src="assets/img/member/none.png">
+					</div>
+					<div class="col-sm-6">
+						<h1>TRUE</h1>
+						<ul>
+							<li>Gilang Ramadhan</li>
+							<li><b>SIDELANE</b></li>
+							<li>
+								<i class="fa fa-fw fa-instagram"></i>
+								<a href="https://www.instagram.com/ggrmdhn_02/" target="_blank">@ggrmdhn_02</a>
 							</li>
 						</ul>
 					</div>

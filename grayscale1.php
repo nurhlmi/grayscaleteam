@@ -82,28 +82,10 @@
 			<div class="division">
 				<div class="row">
 					<div class="col-sm-4">
-						<img src="assets/img/member/adlan.png">
-					</div>
-					<div class="col-sm-6">
-						<h1>Ushiromiyera</h1>
-						<ul>
-							<li>Rizal Adlan</li>
-							<li><b>OFFLANE</b></li>
-							<li>
-								<i class="fa fa-fw fa-instagram"></i>
-								<a href="https://www.instagram.com/rizaladlanuu_/" target="_blank">@rizaladlanuu_</a>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="division">
-				<div class="row">
-					<div class="col-sm-4">
 						<img src="assets/img/member/hakim.png">
 					</div>
 					<div class="col-sm-6">
-						<h1>KYYYM</h1>
+						<h1>KYMMM</h1>
 						<ul>
 							<li>Abdul Hakim</li>
 							<li><b>MIDLANE/CORE</b></li>
