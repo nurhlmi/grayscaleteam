@@ -13,7 +13,7 @@
 						<img src="assets/img/member/rizky.png">
 					</div>
 					<div class="col-sm-6">
-						<h1>Sanomanjiro <i class="fa fa-fw fa-copyright"></i><!--&copy;--></h1>
+						<h1>Sanomanjiro &copy;</h1>
 						<ul>
 							<li>Rizky Akbarulloh</li>
 							<li><b>SUPPORT</b></li>
@@ -34,7 +34,7 @@
 						<h1>Ushiromiyera</h1>
 						<ul>
 							<li>Rizal Adlan</li>
-							<li><b>OFFLANE</b></li>
+							<li><b>SIDELANER</b></li>
 							<li>
 								<i class="fa fa-fw fa-instagram"></i>
 								<a href="https://www.instagram.com/rizaladlanuu_/" target="_blank">@rizaladlanuu_</a>
@@ -70,7 +70,7 @@
 						<h1>Umberzella.</h1>
 						<ul>
 							<li>Ramadhan Dwi Saputra</li>
-							<li><b>TANK</b></li>
+							<li><b>ROAMER</b></li>
 							<li>
 								<i class="fa fa-fw fa-instagram"></i>
 								<a href="https://www.instagram.com/04_rmdhn/" target="_blank">@04_rmdhn</a>
@@ -85,10 +85,10 @@
 						<img src="assets/img/member/none.png">
 					</div>
 					<div class="col-sm-6">
-						<h1>TRUE</h1>
+						<h1>T R U E</h1>
 						<ul>
 							<li>Gilang Ramadhan</li>
-							<li><b>SIDELANE</b></li>
+							<li><b>OFFLANER</b></li>
 							<li>
 								<i class="fa fa-fw fa-instagram"></i>
 								<a href="https://www.instagram.com/ggrmdhn_02/" target="_blank">@ggrmdhn_02</a>

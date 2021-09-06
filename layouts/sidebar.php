@@ -8,8 +8,8 @@
         </div>
         <div class="collapse navbar-collapse mt-md-0" id="navbarNavAltMarkup">
             <div class="navbar-nav ml-auto">
-                <a class="nav-link mx-3" href="grayscale1">Grayscale 1</a>
-                <a class="nav-link mx-3" href="grayscale2">Grayscale 2</a>
+                <a class="nav-link mx-3" href="nexious-code">Nexious Code</a>
+                <a class="nav-link mx-3" href="grayscale-team">Grayscale Team</a>
                 <!-- <a class="nav-link mx-3" href="players">Players</a>
                 <a class="nav-link mx-3" href="sparing">Sparing</a>
                 <a class="nav-link mx-3" href="galery">Galery</a>
