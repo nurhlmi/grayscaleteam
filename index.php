@@ -7,14 +7,14 @@
 	<body>
 		<?php include'layouts/sidebar.php'; ?>
 		<div class="container">
-			<div class="row">
+			<div class="row text-center">
 				<div class="col-lg-3 col-md-4 col-6">
 					<img src="assets/img/member/satrio.png">
-					<h6>Baja</h6>
+					<h6>Ksohyun</h6>
 				</div>
 				<div class="col-lg-3 col-md-4 col-6">
 					<img src="assets/img/member/agung.png">
-					<h6>Shiryoukensa</h6>
+					<h6>Arase.</h6>
 				</div>
 				<div class="col-lg-3 col-md-4 col-6">
 					<img src="assets/img/member/hilmi.png">
@@ -38,7 +38,7 @@
 				</div>
 				<div class="col-lg-3 col-md-4 col-6">
 					<img src="assets/img/member/none.png">
-					<h6>Meliodas</h6>
+					<h6>RyoKenn</h6>
 				</div>
 				<div class="col-lg-3 col-md-4 col-6">
 					<img src="assets/img/member/none.png">
@@ -50,7 +50,7 @@
 				</div>
 				<div class="col-lg-3 col-md-4 col-6">
 					<img src="assets/img/member/none.png">
-					<h6>TRUE</h6>
+					<h6>T R U E</h6>
 				</div>
 		        <!--<div class="col-md-6">
 		            <a href="mobilelegends">
